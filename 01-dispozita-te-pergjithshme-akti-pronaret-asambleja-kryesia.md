@@ -54,7 +54,7 @@ Pjesa e dytë e dispozitës formulon një **balancë** ndërmjet dy vlerave: res
 >
 > 7. “Kryesia” përbëhet nga tre apo më shumë pronarë të njësisë individuale, që veprojnë në emër dhe për llogari të asamblesë për të gjitha veprimet e nevojshme, sipas Kodit Civil dhe këtij ligji.
 >
-> 8.“Kuotë e pjesëmarrjes në bashkëpronësi” është pjesa e pronësisë së pandashme në pronën e përbashkët, e cila shërben për përcaktimin e masës së pjesëmarrjes në shpenzimet e përbashkëta dhe në votim për pronarët e çdo njësie. Kuota e pjesëmarrjes në bashkëpronësi për çdo njësi përcaktohet në bazë të raportit të sipërfaqes së njësisë individuale (në m2) me shumën e sipërfaqes së të gjitha njësive. Kuota e pjesëmarrjes në pronën e përbashkët dhe njësia nuk mund të tjetërsohen të ndara nga njëratjetra.
+> 8.“Kuotë e pjesëmarrjes në bashkëpronësi” është pjesa e pronësisë së pandashme në pronën e përbashkët, e cila shërben për përcaktimin e masës së pjesëmarrjes në shpenzimet e përbashkëta dhe në votim për pronarët e çdo njësie. Kuota e pjesëmarrjes në bashkëpronësi për çdo njësi përcaktohet në bazë të raportit të sipërfaqes së njësisë individuale (në m2) me shumën e sipërfaqes së të gjitha njësive. Kuota e pjesëmarrjes në pronën e përbashkët dhe njësia nuk mund të tjetërsohen të ndara nga njëra-tjetra.
 >
 > 9. “Objekte në bashkëpronësi të detyrueshme” janë objektet e parashikuara shprehimisht në aktin e bashkëpronësisë dhe aktin e pronësisë të secilit bashkëpronar në përpjesëtim me vleftën e katit ose të pjesëve të katit në ato raste kur ndërtesa është e ndarë me kate ose me vleftën e njësisë ose të pjesëve të njësisë në rastet e komplekseve të ndërtimit dhe, deri në plotësimin e këtij akti, ato që janë përcaktuar në nenin 209 të Kodit Civil, si dhe në këtë ligj.
 >

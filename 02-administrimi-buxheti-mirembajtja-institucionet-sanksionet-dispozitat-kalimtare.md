@@ -52,7 +52,7 @@ Regjistrimi ka edhe funksion mbikëqyrës: bashkia mund t’i heqë nga lista su
 >
 > b) ndërmarrjen e veprimeve të nevojshme për mirëmbajtjen e bashkëpronësisë sipas ligjit, përfshirë edhe kontraktimin e subjekteve të treta, kur një gjë e tillë është miratuar nga kryesia;
 >
-> c) ndërmarrjen e masave për përputhshmërinë me standardet e administrimit, duke përfshirë mirëmbajtjen, riparimet dhe përmirësimet e zakonshme, si dhe kontrollet periodike, teknike e higjienoshëndetësore për gjendjen e pronës e të objekteve në bashkëpronësi, si sistemi i mbrojtjes kundër zjarrit, sistemi i ngrohjes qendrore, ashensorëve, tarracave, sistemi i ndriçimit, infrastrukturës së brendshme për rrjetin e komunikimeve elektronike, pranisë së insekteve e të parazitëve dhe të veprimeve për të zhdukur dëmtimet e pronës apo pranisë së faktorëve, që mund të përbëjnë rrezik për epidemi sëmundjeje;
+> c) ndërmarrjen e masave për përputhshmërinë me standardet e administrimit, duke përfshirë mirëmbajtjen, riparimet dhe përmirësimet e zakonshme, si dhe kontrollet periodike, teknike e higjieno-shëndetësore për gjendjen e pronës e të objekteve në bashkëpronësi, si sistemi i mbrojtjes kundër zjarrit, sistemi i ngrohjes qendrore, ashensorëve, tarracave, sistemi i ndriçimit, infrastrukturës së brendshme për rrjetin e komunikimeve elektronike, pranisë së insekteve e të parazitëve dhe të veprimeve për të zhdukur dëmtimet e pronës apo pranisë së faktorëve, që mund të përbëjnë rrezik për epidemi sëmundjeje;
 >
 > ç) mbledhjen, faturimin ose kontrollin për derdhjen në llogari bankare të tarifave mujore, si dhe përditësimin periodik pranë Agjencisë Shtetërore të Kadastrës në lidhje me kufizimet në pasurinë e paluajtshme të bashkëpronarëve debitorë, sipas parashikimeve të këtij ligji.
 >
